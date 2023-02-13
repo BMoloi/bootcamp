@@ -1,0 +1,23 @@
+p{
+    background-color: lightgray;
+    color: black;
+    margin: 16px;
+}
+p{
+    background-color: grey;
+}
+
+.mainContainer{
+    background-color: grey;
+
+}
+.socialMedia{
+    background-color: gray;
+}
+#picture{
+    border-radius: 100%; object-fit: cover; border: 5px solid purple;
+    
+}
+#myPicture{
+    border-radius: 50%; object-fit: cover; border: 5px solid purple;
+}
