@@ -21,3 +21,7 @@ p{
 #myPicture{
     border-radius: 50%; object-fit: cover; border: 5px solid purple;
 }
+#bio{
+    background-color: grey;
+    padding-left: 20vh; padding-top: 50px;
+}
